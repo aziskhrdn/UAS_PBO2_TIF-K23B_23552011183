@@ -164,6 +164,4 @@ public abstract class Sivitas {
 ---
 
 ## Demo Proyek
-
-* **GitHub**: [isi link disini]
-* **YouTube**: [isi link disini]
+* **YouTube**:

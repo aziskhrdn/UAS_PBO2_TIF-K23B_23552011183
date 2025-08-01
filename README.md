@@ -1,4 +1,4 @@
-# Final Proyek Pemrograman Berorientasi Obyek 2
+# Final Project Pemrograman Berorientasi Obyek 2
 
 **Mata Kuliah:** Pemrograman Berorientasi Obyek 2  
 **Dosen Pengampu:** Muhammad Ikhwan Fathulloh
@@ -164,4 +164,4 @@ public abstract class Sivitas {
 ---
 
 ## Demo Proyek
-* **YouTube**:
+* **YouTube**: https://youtu.be/iV1J1DkwIGM?si=93UXW-CoMC8sHnUJ
